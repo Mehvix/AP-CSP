@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccf3886d-eaae-4ede-99b1-b952cc3716ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/1_3_8_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/1_4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/1_4_3Arrays&amp;Images.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/CleanGinger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/Performance Task.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/Performance Task/.~lock.Response.docx#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/Performance Task/Response.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/PerformanceTask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/bert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/graphics2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/images/20180507_141249.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/images/ben.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/images/bert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/images/fancybert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/images/ginger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/images/monacle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/images/moustache.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/images/sunglasses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/images/tophat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/list_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/mastermind.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/perf/2019-11-13 21-17-47.mkv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/perf/Performance Task.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/perf/mastermind.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1: Programming in Python/perf_task.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AP-CSP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AP-CSP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 2: The Internet/messagesAdmin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 2: The Internet/messagesAdmin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 2: The Internet/userName.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 2: The Internet/userNames.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,6 +13,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,6 +37,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CompetitiveProgramming" />
     <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
   </component>
@@ -81,7 +64,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PerformanceTask">
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="AP-CSP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="CleanGinger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AP-CSP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,28 +145,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 1: Programming in Python/PerformanceTask.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="AP-CSP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,15 +219,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.PerformanceTask" />
-        <item itemvalue="Python.bert" />
-        <item itemvalue="Python.GingerEarthEyes" />
-        <item itemvalue="Python.CleanGinger" />
-        <item itemvalue="Python.graphics2" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -289,6 +263,8 @@
       <workItem from="1579797620997" duration="1805000" />
       <workItem from="1580140666434" duration="3883000" />
       <workItem from="1580316382228" duration="1687000" />
+      <workItem from="1583511975342" duration="1162000" />
+      <workItem from="1583776462414" duration="629000" />
     </task>
     <servers />
   </component>
@@ -313,23 +289,5 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/AP-CSP" />
     </ignored-roots>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AP_CSP$1_1_DrawingAPicture.coverage" NAME="1.1_DrawingAPicture Coverage Results" MODIFIED="1568782053544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AP_CSP$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1568389202583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AP_CSP$1_1_1_FirstTurtle.coverage" NAME="1.1.1_FirstTurtle Coverage Results" MODIFIED="1568909703467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AP_CSP$mastermind.coverage" NAME="mastermind Coverage Results" MODIFIED="1573231778839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unit 1: Programming in Python" />
-    <SUITE FILE_PATH="coverage/AP_CSP$bus.coverage" NAME="bus Coverage Results" MODIFIED="1569425558236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AP_CSP$1_3_2_Use.coverage" NAME="1.3.2_Use Coverage Results" MODIFIED="1569599742363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AP_CSP$guessing_game.coverage" NAME="guessing_game Coverage Results" MODIFIED="1570118990734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unit 1: Programming in Python" />
-    <SUITE FILE_PATH="coverage/AP_CSP$1_1_3_Functions.coverage" NAME="1.1.3_Functions Coverage Results" MODIFIED="1568907655608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AP_CSP$1_2_3_Formulas.coverage" NAME="1.2.3_Formulas Coverage Results" MODIFIED="1569944951012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AP_CSP$max_nested.coverage" NAME="max_nested Coverage Results" MODIFIED="1570548000290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unit 1: Programming in Python" />
-    <SUITE FILE_PATH="coverage/AP_CSP$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1570722788168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unit 1: Programming in Python" />
-    <SUITE FILE_PATH="coverage/AP_CSP$first_project.coverage" NAME="first_project Coverage Results" MODIFIED="1568751994535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AP_CSP$1_1_FirstTurtle.coverage" NAME="1.1_FirstTurtle Coverage Results" MODIFIED="1568904962380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AP_CSP$1_1_2_DrawingAPicture.coverage" NAME="1.1.2_DrawingAPicture Coverage Results" MODIFIED="1568949130506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AP_CSP$PerformanceTask.coverage" NAME="PerformanceTask Coverage Results" MODIFIED="1579107363248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unit 1: Programming in Python" />
-    <SUITE FILE_PATH="coverage/AP_CSP$1_1_Functions.coverage" NAME="1.1_Functions Coverage Results" MODIFIED="1568906483191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
